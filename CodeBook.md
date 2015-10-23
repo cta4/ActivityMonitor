@@ -3,7 +3,7 @@
 For each record in the dataset it is provided:
 - subject_id  - 1 - 30 
 - activity - human readable description of activity being measured. There are six distinct activities
-- The remaining 66 columns are the mean of each mean or standard deviation measurement of each subject and activity from the original UC Irvine dataset.
+- The remaining 66 columns are the mean of each mean or standard deviation measurement of each subject and activity by feature from the original UC Irvine dataset.
 
 The 66 measurements / Features (column heads) recorded are listed in ActivityMeasure.txt and described in README.
 
