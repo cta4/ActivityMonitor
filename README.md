@@ -1,16 +1,8 @@
 # ActivityMonitor
 
-This dataset is distilled from a larger dataset available at the University of California Irvine - Center for Machine Learning and Intelligent Systems. http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  (UC Irvine dataset) Much of this document comes directly from there.
+This dataset is distilled from a larger dataset available at the University of California Irvine - Center for Machine Learning and Intelligent Systems. http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  (UC Irvine dataset) The rest of this document comes directly from there.
 
 > The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
-
-
-For each record in the dataset it is provided:
-- subject_id  - 1 - 30 
-- activity - human readable description of activity being measured. 6 distinct activities
-- The remaining 66 columns are the mean of each mean or standard deviation measurement of each subject and activity from the original UC Irvine dataset.
-
-The 66 measurements (column heads) recorded are listed in ActivityMeasure.txt and described here. Description here is taken from featuresInfo.txt file of UC Irvine dataset
 
 Feature Selection 
 =================
