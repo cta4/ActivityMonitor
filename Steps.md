@@ -2,7 +2,6 @@ To create the tidy data set the following steps were carried out with the file r
 
 1. Read in file with feature names
   - Filter in just the standard deviation and mean names and save separately from above
-  - Clean up column names to be valid R variable names.
 2. Read in and combine activity codes from training and test files.
 3. Read in and combine subject_ids from training and test files.
 4. Read in and combine measurement data from training and test files.
